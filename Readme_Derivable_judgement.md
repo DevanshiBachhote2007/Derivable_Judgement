@@ -2,7 +2,7 @@
 
 > A simple health-data analysis project that uses Python and statistics to compare groups, test hypotheses, and explain results in easy English.
 
-[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](Derivable_judgement.ipynb) [![Dataset](https://img.shields.io/badge/Dataset-CSV-blue?logo=filezilla)](Health_Dataset_CSV.csv) [![Watch Video](https://img.shields.io/badge/Video-Drive-red?logo=drive)](https://drive.google.com/file/d/1lqMx-kugiRe8OAzzct2R12iyIAX5ZAz1/view?usp=sharing)
+[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](Derivable_judgement.ipynb) [![Dataset](https://img.shields.io/badge/Dataset-CSV-blue?logo=filezilla)](Health_Dataset_CSV.csv) [![Watch Video](https://img.shields.io/badge/Video-Drive-red?logo=drive)](https://drive.google.com/file/d/1lqMx-kugiRe8OAzzct2R12iyIAX5ZAz1/view?usp=sharing) [![Theory](https://img.shields.io/badge/Theory-PDf-green?logo=Doc)](https://github.com/DevanshiBachhote2007/Derivable_Judgement/blob/main/Part-A%20Derivable%20Judgement.pdf)
 
 ---
 
